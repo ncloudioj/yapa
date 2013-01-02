@@ -1,6 +1,6 @@
 # Yet Another Python Apriori Algorithm Implementation
 
-The python implementation of Apriori Algorithm.
+The python implementation of Apriori Algorithm.  
 Frequently used for association rule mining.
 
 ## Installation
@@ -27,7 +27,7 @@ Please reference the docstrings
 ## Test
 
     $ nosetests test
-or
+or  
     $ python -m unittest test 
 
 ## License
