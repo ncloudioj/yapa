@@ -27,7 +27,9 @@ Please reference the docstrings
 ## Test
 
     $ nosetests test
+    
 or  
+
     $ python -m unittest test 
 
 ## License
